@@ -1,2 +1,3 @@
-# prog-cs-8-examples
-Examples from Programming C# 8.0 (O'Reilly)
+# Examples from Programming C# 8.0 (O'Reilly)
+
+[Chapter 1](Ch01/Ch01.md)
