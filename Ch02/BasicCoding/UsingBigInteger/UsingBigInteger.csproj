@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <NoWarn>1701;1702;IDE0060;RCS1110;RCS1163;RCS1102;RCS1018</NoWarn>
+  </PropertyGroup>
+
+</Project>
