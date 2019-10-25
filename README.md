@@ -7,3 +7,5 @@
 [Chapter 3 - Types](Ch03/Ch03.md)
 
 [Chapter 4 - Generics](Ch04/Ch04.md)
+
+[Chapter 5 - Collections](Ch05/Ch05.md)
