@@ -5,3 +5,5 @@
 [Chapter 2 - Basic Coding in C#](Ch02/Ch02.md)
 
 [Chapter 3 - Types](Ch03/Ch03.md)
+
+[Chapter 4 - Generics](Ch04/Ch04.md)
