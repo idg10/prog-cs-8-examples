@@ -9,3 +9,5 @@
 [Chapter 4 - Generics](Ch04/Ch04.md)
 
 [Chapter 5 - Collections](Ch05/Ch05.md)
+
+[Chapter 6 - Inheritance](Ch06/Ch06.md)
