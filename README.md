@@ -11,3 +11,5 @@
 [Chapter 5 - Collections](Ch05/Ch05.md)
 
 [Chapter 6 - Inheritance](Ch06/Ch06.md)
+
+[Chapter 7 - Object Lifetime](Ch07/Ch07.md)
