@@ -13,3 +13,5 @@
 [Chapter 6 - Inheritance](Ch06/Ch06.md)
 
 [Chapter 7 - Object Lifetime](Ch07/Ch07.md)
+
+[Chapter 8 - Exceptions](Ch08/Ch08.md)
