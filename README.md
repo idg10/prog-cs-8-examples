@@ -15,3 +15,5 @@
 [Chapter 7 - Object Lifetime](Ch07/Ch07.md)
 
 [Chapter 8 - Exceptions](Ch08/Ch08.md)
+
+[Chapter 9 - Delegates, Lambdas, and Events](Ch09/Ch09.md)
