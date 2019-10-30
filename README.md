@@ -21,3 +21,5 @@
 [Chapter 10 - LINQ](Ch10/Ch10.md)
 
 [Chapter 11 - Reactive Extensions](Ch11/Ch11.md)
+
+[Chapter 12 - Assemblies](Ch12/Ch12.md)
