@@ -19,3 +19,5 @@
 [Chapter 9 - Delegates, Lambdas, and Events](Ch09/Ch09.md)
 
 [Chapter 10 - LINQ](Ch10/Ch10.md)
+
+[Chapter 11 - Reactive Extensions](Ch11/Ch11.md)
