@@ -17,3 +17,5 @@
 [Chapter 8 - Exceptions](Ch08/Ch08.md)
 
 [Chapter 9 - Delegates, Lambdas, and Events](Ch09/Ch09.md)
+
+[Chapter 10 - LINQ](Ch10/Ch10.md)
