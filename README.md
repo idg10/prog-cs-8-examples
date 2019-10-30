@@ -23,3 +23,5 @@
 [Chapter 11 - Reactive Extensions](Ch11/Ch11.md)
 
 [Chapter 12 - Assemblies](Ch12/Ch12.md)
+
+[Chapter 13 - Reflection](Ch13/Ch13.md)
