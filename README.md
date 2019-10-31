@@ -33,3 +33,5 @@
 [Chapter 16 - Multithreading](Ch16/Ch16.md)
 
 [Chapter 17 - Asynchronous Language Features](Ch17/Ch17.md)
+
+[Chapter 18 - Memory Efficiency](Ch18/Ch18.md)
