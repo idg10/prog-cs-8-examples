@@ -31,3 +31,5 @@
 [Chapter 15 - Files and Streams](Ch15/Ch15.md)
 
 [Chapter 16 - Multithreading](Ch16/Ch16.md)
+
+[Chapter 17 - Asynchronous Language Features](Ch17/Ch17.md)

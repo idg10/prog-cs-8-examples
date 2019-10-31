@@ -1,0 +1,43 @@
+﻿<Window x:Class="AsyncAwait.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncAwait"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button
+            Content="_Fetch"
+            Click="fetchHeadersButton_Click"
+            />
+        <TextBox
+            x:Name="headerListTextBox"
+            Grid.Row="1"
+            />
+
+        <Button
+            x:Name="okButton"
+            Content="OK"
+            Grid.Row="2"
+            HorizontalAlignment="Right"/>
+
+        <TextBox
+            x:Name="uriTextBox"
+            HorizontalAlignment="Left"
+            Width="80"
+            Grid.Row="2"
+            />
+        <TextBlock
+            x:Name="infoTextBlock"
+            Grid.Row="2"
+            HorizontalAlignment="Center"
+            />
+    </Grid>
+</Window>
