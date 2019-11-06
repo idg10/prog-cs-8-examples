@@ -43,8 +43,8 @@ namespace AnonymousFunctions
                         return true;
                     }
                 });
-            Console.WriteLine("Number of zero entries: {zeroCount}");
-            Console.WriteLine("First non-zero entry: {nonZeroNums[0]}");
+            Console.WriteLine($"Number of zero entries: {zeroCount}");
+            Console.WriteLine($"First non-zero entry: {nonZeroNums[0]}");
         }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Code Quality", "IDE0067:Dispose objects before losing scope", Justification = "In most cases you don't need to Dispose an HttpClient - it's an exception to the general rule")]
